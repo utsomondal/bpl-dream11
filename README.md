@@ -4,7 +4,7 @@ BPL Dream11 is a **fantasy cricket team selection** platform built with **React 
 
 ## 🚀 Live Demo
 
-🔗 [View BPL Dream11 on Surge](purring-mint.surge.sh)
+🔗 [View BPL Dream11 on Surge](https://purring-mint.surge.sh/)
 
 ## 📌 Features
 
